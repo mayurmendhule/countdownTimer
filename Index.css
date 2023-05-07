@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to left, #8dd470cf, #9696f0a8, #ff4d4db5);
+}
+
+.time {
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    margin: 100px auto;
+    border: 1px solid gray;
+    border-radius: 8px;
+    padding: 30px;
+    font-size: 50px;
+    background: linear-gradient(to left top, #7070d4, #ff4d4d);
+    box-shadow: 10px 10px #3a4346c7;
+}
+
+#timeCount {
+    width: 45%;
+    height: 30px;
+    margin: 20px;
+    padding-left: 10px;
+    border-radius: 3px;
+    border: none;
+}
